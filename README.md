@@ -1,7 +1,7 @@
-Bookmarklets
+Custom Bookmarklets
 ============
 
-
+#### My collection of custom bookmarklets http://damc-dev.github.io/bookmarklets/
 
 ### [Toggle Hide/Show Laravel Docs Side Bar Navigation](laravelDocs_hideNav.html)
 
